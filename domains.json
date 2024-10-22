@@ -1,7 +1,7 @@
 [
   { "domain": "667408.xyz", "registrationDate": "2024-09-23", "expirationDate": "2025-09-23", "system": "SpaceShip", "systemURL": "https://www.spaceship.com" },
-  { "domain": "iq100.us.kg", "registrationDate": "2024-10-22", "expirationDate": "2025-10-22", "system": "SpaceShip", "systemURL": "https://register.us.kg" },
-  { "domain": "eq100.us.kg", "registrationDate": "2024-10-22", "expirationDate": "2025-10-22", "system": "SpaceShip", "systemURL": "https://register.us.kg" },
-  { "domain": "sq100.us.kg", "registrationDate": "2024-10-22", "expirationDate": "2025-10-22", "system": "SpaceShip", "systemURL": "https://register.us.kg" },
-  { "domain": "wwcc.me", "registrationDate": "2024-10-09", "expirationDate": "2025-10-09", "system": "SpaceShip", "systemURL": "https://www.dynadot.com" }
+  { "domain": "iq100.us.kg", "registrationDate": "2024-10-22", "expirationDate": "2025-10-22", "system": "register", "systemURL": "https://register.us.kg" },
+  { "domain": "eq100.us.kg", "registrationDate": "2024-10-22", "expirationDate": "2025-10-22", "system": "register", "systemURL": "https://register.us.kg" },
+  { "domain": "sq100.us.kg", "registrationDate": "2024-10-22", "expirationDate": "2025-10-22", "system": "register", "systemURL": "https://register.us.kg" },
+  { "domain": "wwcc.me", "registrationDate": "2024-10-09", "expirationDate": "2025-10-09", "system": "dynadot", "systemURL": "https://www.dynadot.com" }
 ]
